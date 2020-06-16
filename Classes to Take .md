@@ -9,3 +9,22 @@ Here is a list of classes students in the group have found interesting or useful
 - ML classes
 - Inorganic Chemistry
 - Condensed Matter series
+
+#### Winter
+1.	STA 242 Intro Statistical Programming
+2.	STA 243 Computational Statistics
+3.	STA 135 Multivariable Data Analysis
+4.	CHE 215 Theoretical and Computational Chemistry
+5.	CHE 210A Quantum Chemistry
+6.	CHE 211B Statistical Mechanics
+
+#### Spring
+7.	ECS 171/271 Machine Learning
+8.	CHE 210B Quantum Chemistry
+
+#### Fall
+9.	CHE 155 Computer Methods in Chemistry
+10.	CHE 204 Math Methods in Chemistry
+11.	MAT 167 Applied Linear Algebra
+12.	CHE 210C Quantum Chemistry
+
