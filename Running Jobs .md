@@ -23,11 +23,11 @@
 #### tips
 - make sure the optimization before vibration run has the same ENCUT and ediff
 - set NSW=1 !!!
-### MD
+### Molecular Dynamics
 
-### NEB
+### Nudged Elastic Band
 
-### MC
+### Monte Carlo
 
 ### Metadynamics
 
