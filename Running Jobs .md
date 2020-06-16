@@ -25,6 +25,8 @@
 - set NSW=1 !!!
 ### Molecular Dynamics
 
+- http://devonwa.com/2016/09/01/installing-and-using-LAMMPS-with-ASE/
+
 ### Nudged Elastic Band
 
 ### Monte Carlo
