@@ -28,3 +28,4 @@ Here is a list of classes students in the group have found interesting or useful
 11.	MAT 167 Applied Linear Algebra
 12.	CHE 210C Quantum Chemistry
 
+Add ECH/EMS 290 and 299 with Ambar to receive credit for lab work and group meeting (in addition to 290 lecture series in your first year)
