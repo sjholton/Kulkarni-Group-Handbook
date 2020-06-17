@@ -1,6 +1,11 @@
-Prelim Preps
-The first steppingstone is the Prelim exam that happens any time between first week of May to mid-May. 
-What to expect?
+### Preliminary Examination
+
+The Preliminary Examination, or prelim, is an exam taken at the end of your first year to assess your ability to read and understand the literature in your field.
+
+### Prelim Preparation
+The first steppingstone to a Masters of PhD is the Prelim exam that happens any time between first week of May to mid-May. 
+
+#### What to expect?
 Grace sends you a doodle poll asking you availability and accordingly she sets up an exam where 5 professors are assigned as your Prelim Committee (including Ambar).
 What exactly happens?
 10 mins presentation (the committee really appreciates if the timing is perfect so PRACTICE!!!) followed by 20 min questions (it’s usually a bit longer than stated).
@@ -18,12 +23,12 @@ What exactly happens?
 |     Make reading related literature your daily routine till the time you   feel comfortable with your 2 main papers                                                   |     Though out the Spring quarter                                                                         |     Self                                                                                                                 |
 
 
-Useful:
+#### Useful:
 Pick a paper that deals more with the core ECH courses of your choice/strength (eg. Pick a paper that talks more about thermo if you like thermo or kinetics or mass transfer etc.) PLAY ON YOUR STRENGHTS!!!
 Make sure you brush up Ambar’s kinetics class or any other class that you took which was taught by one of the Prelim committee members. Particularly, if it is related to your paper. 
 Please don’t over prepare. You need to know how much is too much or your brain crashes while answering. If the people you practiced with suggest that you are good, then that is it. Do not keep reading and digging further. 
 
-Slides:
+#### Slides:
 Keep your slides uncomplicated
 Try to come-up with a story for your slides to make sense
 What is on the slides is what you will be asked 
