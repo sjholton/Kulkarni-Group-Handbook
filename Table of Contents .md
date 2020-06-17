@@ -13,7 +13,7 @@
 - paperwork to remember
 ### Programs and Software Stack
 ### Account Setup
-### Classes to Take
+### [Classes to Take](https://github.com/kul-group/Group-Handbook/blob/master/Classes%20to%20Take%20.md#classes-to-take)
 ### [Learning ASE/Python/HPC](https://github.com/kul-group/Group-Handbook/blob/master/Learning%20ASE-Python-HPC.md#learning-asepythonhpc)
 - Getting started with Python
 - Python Practice Problems
