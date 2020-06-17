@@ -1,4 +1,4 @@
-# Lab Handbook Outline
+# Table of Contents
 
 ## [Introduction](https://github.com/kul-group/Group-Handbook/blob/master/Introduction.md#introduction)
 - Welcome to the Group!
@@ -35,17 +35,17 @@
 - Already-Built Code in the Group
 - Outside References
 
-### ASE
+### Atomic Simulation Environment
 - Best Practices
 
 ### Github
 
-### HPC
+### High Performance Computing
 - Best Practices
 - Useful commands
 - Outside References
 
-### Command Line/Bash
+### Command Line
 - Best Practices
 - Useful commands
 - Outside References
