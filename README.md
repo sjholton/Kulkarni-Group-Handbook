@@ -39,7 +39,7 @@ Markdown Guide: https://www.markdownguide.org/basic-syntax
 
 ## How-to guides
 
-### [Programming](https://github.com/kul-group/Group-Handbook/blob/master/Atomic%20Simulation%20Environment.md#atomic-simulation-environment)
+### [Programming](https://github.com/kul-group/Group-Handbook/blob/master/Programming.md#programming)
 - Formatting/Best Practices
 - Already-Built Code in the Group
 - Outside References
