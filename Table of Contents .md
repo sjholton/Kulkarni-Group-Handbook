@@ -5,15 +5,21 @@
 - How to use this guide
 - What do we mean by "Best Practices"?
 
-## Student Startup
+## [Student Startup](https://github.com/kul-group/Group-Handbook/blob/master/Student Startup.md#student-startup)
+
 ### [Meeting Schedule](https://github.com/kul-group/Group-Handbook/blob/master/Meeting%20Schedule.md#meeting-schedule)
 - meeting schedule updated quarterly: view updated schedule [here](https://ucdavis.app.box.com/notes/525192228480)
-### Workstation and paperwork
+
+### [Workstation and Paperwork](https://github.com/kul-group/Group-Handbook/blob/master/Workstation and Paperwork.md#workstation-and-paperwork)
 - getting a desk
 - paperwork to remember
+
 ### Programs and Software Stack
+
 ### Account Setup
+
 ### [Classes to Take](https://github.com/kul-group/Group-Handbook/blob/master/Classes%20to%20Take%20.md#classes-to-take)
+
 ### [Learning ASE/Python/HPC](https://github.com/kul-group/Group-Handbook/blob/master/Learning%20ASE-Python-HPC.md#learning-asepythonhpc)
 - Getting started with Python
 - Python Practice Problems
@@ -22,23 +28,28 @@
 - Getting Started on HPC: Logging in
 - Getting Started on HPC: Basic Commands
 
-
 ## How-to guides
+
 ### Programming
 - Formatting/Best Practices
 - Already-Built Code in the Group
 - Outside References
+
 ### ASE
 - Best Practices
+
 ### Github
+
 ### HPC
 - Best Practices
 - Useful commands
 - Outside References
+
 ### Command Line/Bash
 - Best Practices
 - Useful commands
 - Outside References
+
 ### [Running Jobs](https://github.com/kul-group/Group-Handbook/blob/master/Running%20Jobs%20.md#chapter-contents)
 - Optimization
 - Vibrations
@@ -46,29 +57,39 @@
 - NEB
 - MC
 - Metadynamics
+
 ### Qualifying Examination
+
 ### Preliminary Examination
+
 ### Literature
 - Finding lit
 - Organizing lit
 - Group lit repository
+
 ### Presentations
 - Best Practices
 - Examples of good slides
+
 ### Writing
 - Best Practices
 - Examples of good writing
 - Outside References
+
 ### Data Visualization
 - Examples of good visualizations
 - Plotting code within the group
 - Outside References
-## [Tips and Tricks](https://github.com/kul-group/Group-Handbook/blob/master/Tips%20and%20Tricks%20.md#tips)
 
-## Resources for learning
-### DFT
-### ML
+## Further Resources
 
-## Troubleshooting
+### Theory
+
+#### DFT
+#### ML
+
+### [Tips and Tricks](https://github.com/kul-group/Group-Handbook/blob/master/Tips%20and%20Tricks%20.md#tips)
+
+### Troubleshooting
 
 
