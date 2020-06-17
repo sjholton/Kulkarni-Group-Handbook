@@ -5,7 +5,7 @@
 - How to use this guide
 - What do we mean by "Best Practices"?
 
-## [Student Startup](https://github.com/kul-group/Group-Handbook/blob/master/Student Startup.md#student-startup)
+## Student Startup
 
 ### [Meeting Schedule](https://github.com/kul-group/Group-Handbook/blob/master/Meeting%20Schedule.md#meeting-schedule)
 - meeting schedule updated quarterly: view updated schedule [here](https://ucdavis.app.box.com/notes/525192228480)
