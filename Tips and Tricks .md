@@ -25,4 +25,11 @@ CP2K 
 Metadynamics - Be careful about the units being used. CP2K defaults into internal_cp2k while providing output, we usually care about Ang. 
 Indexing - cp2k counts from index 1 .. N, while ASE/VMD starts from index 0 
 
+Packages not loaded in NERSC: Make sure to download the .bashrc file and .bash.ext file from the repo_shared folder to your account
+Cannot get Pulse Secure to connect: Sam still has problems with this
+scipy.optimize.minimize not working: function to optimize must be a function of one argument containing all the parameters you want to optimize
+python can't call ase: make sure ase has the correct path variable
+math eqns in python don't work: make sure things are written as ```2*x``` not ```2x``` and ```x**3``` instead of ```x^3```
+weird things happen during vasp vibrational calculation: set NSW to 1
+
 
