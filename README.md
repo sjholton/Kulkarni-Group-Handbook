@@ -6,3 +6,8 @@ Mostly focus on adding bullet points and short bits of text, we will make it mor
 If you like, you can title a page with .md and use markdown formatting to make it look nice.
 
 Markdown Guide: https://www.markdownguide.org/basic-syntax
+
+
+Test
+
+[create an anchor](#anchors-in-markdown)
