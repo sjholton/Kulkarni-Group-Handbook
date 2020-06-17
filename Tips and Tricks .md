@@ -9,6 +9,7 @@
 - folder organization
 - reading papers and organizing lit
 - presentation tips, how to do a lit review
+- use [queue wait times](https://my.nersc.gov/queuewaittimes.php) for submitting jobs on cori.
 
 ### Sticking points
 - vasp scripts crashing (check header is correct, use debug queue, fix environment variable, make sure modules are loaded)
