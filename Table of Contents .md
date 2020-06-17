@@ -1,5 +1,7 @@
 # Lab Handbook Outline
 
+test: [README](https://github.com/kul-group/Group-Handbook/blob/master/README.md#anchors-in-markdown) 
+
 ## Introduction
 - Welcome to the Group!
 - How to use this guide
