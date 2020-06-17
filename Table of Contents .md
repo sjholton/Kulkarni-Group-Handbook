@@ -39,7 +39,7 @@
 - Best Practices
 - Useful commands
 - Outside References
-### Running Jobs
+### [Running Jobs](https://github.com/kul-group/Group-Handbook/blob/master/Running%20Jobs%20.md#chapter-contents)
 - Optimization
 - Vibrations
 - MD
