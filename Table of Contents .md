@@ -63,7 +63,7 @@
 - Examples of good visualizations
 - Plotting code within the group
 - Outside References
-## Tips and Tricks
+## [Tips and Tricks](https://github.com/kul-group/Group-Handbook/blob/master/Tips%20and%20Tricks%20.md#tips)
 
 ## Resources for learning
 ### DFT
