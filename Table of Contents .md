@@ -1,6 +1,6 @@
 # Lab Handbook Outline
 
-## [Introduction]
+## [Introduction](https://github.com/kul-group/Group-Handbook/blob/master/Introduction.md#introduction)
 - Welcome to the Group!
 - How to use this guide
 - What do we mean by "Best Practices"?
