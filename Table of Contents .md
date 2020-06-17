@@ -45,8 +45,8 @@
 - NEB
 - MC
 - Metadynamics
-### QE
-### Prelim
+### Qualifying Examination
+### Preliminary Examination
 ### Literature
 - Finding lit
 - Organizing lit
