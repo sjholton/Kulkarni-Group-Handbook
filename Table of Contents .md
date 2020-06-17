@@ -1,6 +1,6 @@
-# Table of Contents
+# Lab Handbook Outline
 
-OUT OF DATE, README IS MORE ACCURATE
+OUT OF DATE. README IS MORE ACCURATE
 
 ## [Introduction](https://github.com/kul-group/Group-Handbook/blob/master/Introduction.md#introduction)
 - Welcome to the Group!
@@ -16,9 +16,9 @@ OUT OF DATE, README IS MORE ACCURATE
 - getting a desk
 - paperwork to remember
 
-### Programs and Software Stack
+### [Programs to Download](https://github.com/kul-group/Group-Handbook/blob/master/Programs%20to%20Download.md#programs-to-downloadmd)
 
-### Account Setup
+### [Account Setup](https://github.com/kul-group/Group-Handbook/blob/master/Account%20Setup.md#account-setup)
 
 ### [Classes to Take](https://github.com/kul-group/Group-Handbook/blob/master/Classes%20to%20Take%20.md#classes-to-take)
 
@@ -32,22 +32,22 @@ OUT OF DATE, README IS MORE ACCURATE
 
 ## How-to guides
 
-### Programming
+### [Programming](https://github.com/kul-group/Group-Handbook/blob/master/Programming.md#programming)
 - Formatting/Best Practices
 - Already-Built Code in the Group
 - Outside References
 
-### Atomic Simulation Environment
+### [Atomic Simulation Environment](https://github.com/kul-group/Group-Handbook/blob/master/Atomic%20Simulation%20Environment.md#atomic-simulation-environment)
 - Best Practices
 
-### Github
+### [Github](https://github.com/kul-group/Group-Handbook/blob/master/Github.md#github)
 
-### High Performance Computing
+### [High Performance Computers](https://github.com/kul-group/Group-Handbook/blob/master/High%20Performance%20Computers.md#high-performance-computers)
 - Best Practices
 - Useful commands
 - Outside References
 
-### Command Line
+### [Command Line](https://github.com/kul-group/Group-Handbook/blob/master/Command%20Line.md#command-line)
 - Best Practices
 - Useful commands
 - Outside References
@@ -60,38 +60,36 @@ OUT OF DATE, README IS MORE ACCURATE
 - MC
 - Metadynamics
 
-### Qualifying Examination
+### [Qualifying Examination](https://github.com/kul-group/Group-Handbook/blob/master/Qualifying%20Examination.md#qualifying-examination)
 
-### Preliminary Examination
+### [Preliminary Examination](https://github.com/kul-group/Group-Handbook/blob/master/Preliminary%20Examination.md#preliminary-examination)
 
-### Literature
+### [Literature](https://github.com/kul-group/Group-Handbook/blob/master/Literature.md#literature)
 - Finding lit
 - Organizing lit
 - Group lit repository
 
-### Presentations
+### [Presentations](https://github.com/kul-group/Group-Handbook/blob/master/Presentations.md#presentations)
 - Best Practices
 - Examples of good slides
 
-### Writing
+### [Writing](https://github.com/kul-group/Group-Handbook/blob/master/Writing.md#writing)
 - Best Practices
 - Examples of good writing
 - Outside References
 
-### Data Visualization
+### [Data Visualization](https://github.com/kul-group/Group-Handbook/blob/master/Data%20Visualization.md#data-visualization)
 - Examples of good visualizations
 - Plotting code within the group
 - Outside References
 
 ## Further Resources
 
-### Theory
+### [Theory](https://github.com/kul-group/Group-Handbook/blob/master/Theory.md#theory)
 
 #### DFT
 #### ML
 
 ### [Tips and Tricks](https://github.com/kul-group/Group-Handbook/blob/master/Tips%20and%20Tricks%20.md#tips)
 
-### Troubleshooting
-
-
+### [Troubleshooting](https://github.com/kul-group/Group-Handbook/blob/master/Troubleshooting.md#troubleshooting)
