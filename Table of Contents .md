@@ -10,7 +10,7 @@
 ### [Meeting Schedule](https://github.com/kul-group/Group-Handbook/blob/master/Meeting%20Schedule.md#meeting-schedule)
 - meeting schedule updated quarterly: view updated schedule [here](https://ucdavis.app.box.com/notes/525192228480)
 
-### [Workstation and Paperwork](https://github.com/kul-group/Group-Handbook/blob/master/Workstation and Paperwork.md#workstation-and-paperwork)
+### [Workstation and Paperwork](https://github.com/kul-group/Group-Handbook/blob/master/Workstation%20and%20Paperwork.md#workstation-and-paperwork)
 - getting a desk
 - paperwork to remember
 
