@@ -7,7 +7,7 @@
 
 ## Student Startup
 ### Meeting Schedule
-- meeting schedule updated quarterly: view updated schedule here [LINK]
+- meeting schedule updated quarterly: view updated schedule [here](https://ucdavis.app.box.com/notes/525192228480)
 ### Workstation and paperwork
 - getting a desk
 - paperwork to remember
