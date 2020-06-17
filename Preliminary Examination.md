@@ -5,16 +5,18 @@ Grace sends you a doodle poll asking you availability and accordingly she sets u
 What exactly happens?
 10 mins presentation (the committee really appreciates if the timing is perfect so PRACTICE!!!) followed by 20 min questions (it’s usually a bit longer than stated).
 
-Task	Timeline	Supports
-Pick 4-5 papers out of the many related to your project	First week of Jan	Self
-Shortlist 2 	Mid Jan	Ambar
-Prepare 10 mins ppt	Jan End	Check out with group members
-Read and improve your ppt	Through winter quarter	Self; discuss with the group, practice presentations
-Write an abstract based on guidelines sent by grace	April first week is the deadline	Get it approved by Ambar
-Set up formal practice sessions with the group	As soon as you feel comfy but must be starting April	Teamwork, the more the better
-On receiving the list of committee members set up individual practice sessions with members of their group (seek help from members of our group if needed)	As many sessions as you want and people are ready to help with. Before your GSO practice session	Do not hesitate to ask for help. This is the best way to improve and tweak your ppt according to the committee.
-Sing-in for GSO practice session	Pick a date close to your prelim day	Thank the seniors offering help
-Make reading related literature your daily routine till the time you feel comfortable with your 2 main papers	Though out the Spring quarter	Self
+| Task                                                                                                                                                                  |     Timeline                                                                                              |     Supports                                                                                                             |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|     Pick 4-5 papers out of the many related to your project                                                                                                           |     First week of Jan                                                                                     |     Self                                                                                                                 |
+|     Shortlist 2                                                                                                                                                       |     Mid Jan                                                                                               |     Ambar                                                                                                                |
+|     Prepare 10 mins ppt                                                                                                                                               |     Jan End                                                                                               |     Check out with group members                                                                                         |
+|     Read and improve your ppt                                                                                                                                         |     Through winter quarter                                                                                |     Self; discuss with the group, practice presentations                                                                 |
+|     Write an abstract based on guidelines sent by grace                                                                                                               |     April first week is the deadline                                                                      |     Get it approved by Ambar                                                                                             |
+|     Set up formal practice sessions with the group                                                                                                                    |     As soon as you feel comfy but must be starting April                                                  |     Teamwork, the more the better                                                                                        |
+|     On receiving the list of committee members set up individual practice   sessions with members of their group (seek help from members of our group if   needed)    |     As many sessions as you want and people are ready to help with.   Before your GSO practice session    |     Do not hesitate to ask for help. This is the best way to improve and   tweak your ppt according to the committee.    |
+|     Sing-in for GSO practice session                                                                                                                                  |     Pick a date close to your prelim day                                                                  |     Thank the seniors offering help                                                                                      |
+|     Make reading related literature your daily routine till the time you   feel comfortable with your 2 main papers                                                   |     Though out the Spring quarter                                                                         |     Self                                                                                                                 |
+
 
 Useful:
 Pick a paper that deals more with the core ECH courses of your choice/strength (eg. Pick a paper that talks more about thermo if you like thermo or kinetics or mass transfer etc.) PLAY ON YOUR STRENGHTS!!!
@@ -29,9 +31,3 @@ People in the group will help you to improve you slides (make sure you see previ
 
 Most importantly STAY CALM and CONFIDENT!!!
 
-
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
