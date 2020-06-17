@@ -1,6 +1,13 @@
 
 ### Tips
 - jupyter trick for code dev on hpc
+<pre><code>1. Run jupyter notebook on remote (say HPC1) using 
+jupyter notebook --no-browser --port=8888
+2. Listen to the remote port using ssh
+ssh -N -f -L localhost:8888:localhost:8888 $USER@hpc1.engr.ucdavis.edu
+3. Run the jupyter notebook using the local browser by copy pasting the token
+</pre></code>
+
 - automate logins to hpc
 - use ase.db
 - automated rsync
