@@ -6,7 +6,7 @@
 - What do we mean by "Best Practices"?
 
 ## Student Startup
-### Meeting Schedule
+### [Meeting Schedule](https://github.com/kul-group/Group-Handbook/blob/master/Meeting%20Schedule.md#meeting-schedule)
 - meeting schedule updated quarterly: view updated schedule [here](https://ucdavis.app.box.com/notes/525192228480)
 ### Workstation and paperwork
 - getting a desk
