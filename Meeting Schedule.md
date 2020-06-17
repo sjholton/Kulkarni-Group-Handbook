@@ -1,4 +1,4 @@
-### Meeting Schedule
+### [Meeting Schedule](#meeting-schedule)
 
 Updated: 6/17/20
 
