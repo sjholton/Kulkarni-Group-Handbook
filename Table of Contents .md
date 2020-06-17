@@ -1,5 +1,7 @@
 # Table of Contents
 
+OUT OF DATE, README IS MORE ACCURATE
+
 ## [Introduction](https://github.com/kul-group/Group-Handbook/blob/master/Introduction.md#introduction)
 - Welcome to the Group!
 - How to use this guide
