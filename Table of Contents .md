@@ -14,11 +14,12 @@
 ### Programs and Software Stack
 ### Account Setup
 ### Classes to Take
-### Learning ASE/Python/HPC
+### [Learning ASE/Python/HPC](https://github.com/kul-group/Group-Handbook/blob/master/Learning%20ASE-Python-HPC.md#learning-asepythonhpc)
 - Getting started with Python
 - Python Practice Problems
 - Getting Started with ASE
 - ASE Practice Problems
+- Getting Started on HPC: Logging in
 - Getting Started on HPC: Basic Commands
 
 
