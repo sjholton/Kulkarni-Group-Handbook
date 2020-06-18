@@ -7,7 +7,7 @@ If you like, you can title a page with .md and use markdown formatting to make i
 
 Markdown Guide: https://www.markdownguide.org/basic-syntax
 
-# Lab Handbook Outline
+# Table of Contents
 
 ## [Introduction](https://github.com/kul-group/Group-Handbook/blob/master/Introduction.md#introduction)
 - Welcome to the Group!
