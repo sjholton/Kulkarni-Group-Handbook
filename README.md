@@ -101,3 +101,6 @@ Markdown Guide: https://www.markdownguide.org/basic-syntax
 
 ### [Troubleshooting](https://github.com/kul-group/Group-Handbook/blob/master/Troubleshooting.md#troubleshooting)
 
+### [Contact List](https://github.com/kul-group/Group-Handbook/blob/master/Contact%20List.md#contact-list)
+
+
