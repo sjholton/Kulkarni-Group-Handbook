@@ -2,7 +2,7 @@
 
 #### Welcome To the Group!
 
-Welcome to the Kulkarni Group! We look forward to working with you. 
+Welcome to the Kulkarni Group! We look forward to working with you. For any questions, you can email Professor Kulkarni (arkulkarni@ucdavis.edu) or reach out to people in the [Contact List]().
 
 #### How To Use This Guide
 
