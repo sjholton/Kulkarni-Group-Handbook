@@ -17,8 +17,6 @@ Markdown Guide: https://www.markdownguide.org/basic-syntax
 ## Student Startup
 
 ### [Workstation and Paperwork](https://github.com/kul-group/Group-Handbook/blob/master/Workstation%20and%20Paperwork.md#workstation-and-paperwork)
-- getting a desk
-- paperwork to remember
 
 ### [Programs to Download](https://github.com/kul-group/Group-Handbook/blob/master/Programs%20to%20Download.md#programs-to-downloadmd)
 
