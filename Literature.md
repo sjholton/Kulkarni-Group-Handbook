@@ -1,5 +1,6 @@
 ### Literature
-Tips for keeping track of literature or reading more efficiently or whatever 
+
+Tips for keeping track of literature and reading more efficiently: 
 Use Mendeley to organize the literature. Use the watch folder functionality. 
 Ambar - Read in the following order conclusions/ summary --> intro --> figures/ captions --> whole paper 
 Ambar - summarize the main results in a power point slide
