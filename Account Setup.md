@@ -21,4 +21,4 @@ This section lists the various places you should set up an account using your UC
 ##### Non-Essential
 
 - Mendeley (add your assigned box folder to sync list)
-- Github 
+- Github: Create an account and have a group member add you to a repo you are working on
