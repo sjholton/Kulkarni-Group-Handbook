@@ -1,6 +1,6 @@
 # Lab Handbook Outline
 
-OUT OF DATE. README IS MORE ACCURATE
+OUT OF DATE. [README](https://github.com/kul-group/Group-Handbook#table-of-contents) IS MORE ACCURATE
 
 ## [Introduction](https://github.com/kul-group/Group-Handbook/blob/master/Introduction.md#introduction)
 - Welcome to the Group!
