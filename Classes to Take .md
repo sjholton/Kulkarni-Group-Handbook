@@ -2,12 +2,9 @@
 
 Here is a list of classes students in the group have found interesting or useful.
 
-### Categories:
-  - ECH 261 Faller's class
-  - EMS 298 Mason's class
-  - object oriented programming class (ECH 032B)
+### unsorted:
+  - object oriented programming class (ECS 032B)
   - dft focused class?
-  - ML classes
   - Inorganic Chemistry
   - Condensed Matter series
 
@@ -25,13 +22,15 @@ Here is a list of classes students in the group have found interesting or useful
 - CHE 215 Theoretical and Computational Chemistry
 - CHE 210A Quantum Chemistry
 - CHE 211B Statistical Mechanics
+- ECH 261 (Taught by Professor Faller)
 - STA 220 Data Analysis and Web Technologies
 
 #### Spring
 - ECS 171/271 Machine Learning (Note: ECS 171 is currectly only available for undergrads, so pick 271 if you want)
+- EMS 298: Intro To Materials Simulation (Taught by Professor Mason)
 - CHE 210B Quantum Chemistry
 - STA 208: Statistical Machine Learning (Note: focus on both theory and application)
-- STA 243 Computational Statistics (Note: useful but R is the only language)
+- STA 243: Computational Statistics (Note: useful but R is the only language)
 - STA 221: High Performance Statistical Computing 
 
 Add ECH/EMS 290 and 299 with Ambar to receive credit for lab work and group meeting (in addition to 290 lecture series in your first year)
