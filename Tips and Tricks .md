@@ -5,6 +5,9 @@
 jupyter notebook --no-browser --port=8888
 2. Listen to the remote port using ssh
 ssh -N -f -L localhost:8888:localhost:8888 $USER@hpc1.engr.ucdavis.edu
+If you get an error saying that port 8888 is busy, use the following command to find and kill the process
+ lsof -ti:8888 | xargs kill -9
+
 3. Run the jupyter notebook using the local browser by copy pasting the token
 </pre></code>
 
