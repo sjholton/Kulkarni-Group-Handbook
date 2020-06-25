@@ -21,6 +21,8 @@ If you get an error saying that port 8888 is busy, use the following command to 
 - presentation tips, how to do a lit review
 - use [queue wait times](https://my.nersc.gov/queuewaittimes.php) for submitting jobs on cori.
 - configuring pycharm: make sure to configure your conda environment with pycharm follow [these directions](https://docs.anaconda.com/anaconda/user-guide/tasks/pycharm/#configuring-a-conda-environment-in-pycharm) and use the path you obtain by typing `which python` in your command line as the interpreter.
+- [chmod reference](https://chmodcommand.com/)
+- chgrp reference:
 
 ### Sticking points
 - vasp scripts crashing (check header is correct, use debug queue, fix environment variable, make sure modules are loaded)
