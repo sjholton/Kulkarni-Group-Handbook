@@ -25,4 +25,8 @@ You are now ready to make additions to the project! By editing a branch instead 
 
 #### Tips
 
+1. Commit frequently: this gives you a more fine-grained history on your local device
 
+2. Pull frequently: this helps you stay up to date with your project and incorporate additions others have made
+
+3. Push when you have a functioning well tested addition: Push your code once you have a finished product which you have tested locally, this keeps others up-to-date on your progress and ensures that each addition is bug-free
