@@ -6,7 +6,7 @@
 - make sure you have ase downloaded and on your anaconda PATH -> the `import ase` command in the python command line should give no errors
 
 ##### ASE Practice Problems
-- First, download a structure from the internet or from someone in the group
+- First, download a structure from the internet (e.g. from this [zeolite database](https://asia.iza-structure.org/IZA-SC/ftc_table.php))or from someone in the group
 - Move the structure to the folder where you are writing and running practice scripts
 - Write a new script with the following:
 
