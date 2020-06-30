@@ -2,6 +2,15 @@
 
 Meeting schedule updated quarterly. View updated schedule [here](https://ucdavis.app.box.com/notes/525192228480)
 
+Literature Meetings: The listed lab member leads a discussion of a paper, other students are tasked with explaining a figure from the paper. The week's paper and figure assignments are typically announced 3 days before the meeting on Slack.
+
+Research Meetings: Update the team about what has been happening with your research. Students are split into two groups which alternate giving updates.
+
+Group A members:
+Group B members: 
+
+#### Schedule
+
 Updated: 6/17/20
 
 
