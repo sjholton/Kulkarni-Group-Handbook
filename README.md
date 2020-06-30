@@ -43,35 +43,18 @@ Please let people know if there is an incorrect link or if this table of content
 ### [Command Line](https://github.com/kul-group/Group-Handbook/blob/master/Command%20Line.md#command-line)
 
 ### [Running Jobs](https://github.com/kul-group/Group-Handbook/blob/master/Running%20Jobs%20.md#chapter-contents)
-- Optimization
-- Vibrations
-- MD
-- NEB
-- MC
-- Metadynamics
 
 ### [Qualifying Examination](https://github.com/kul-group/Group-Handbook/blob/master/Qualifying%20Examination.md#qualifying-examination)
 
 ### [Preliminary Examination](https://github.com/kul-group/Group-Handbook/blob/master/Preliminary%20Examination.md#preliminary-examination)
 
 ### [Literature](https://github.com/kul-group/Group-Handbook/blob/master/Literature.md#literature)
-- Finding lit
-- Organizing lit
-- Group lit repository
 
 ### [Presentations](https://github.com/kul-group/Group-Handbook/blob/master/Presentations.md#presentations)
-- Best Practices
-- Examples of good slides
 
 ### [Writing](https://github.com/kul-group/Group-Handbook/blob/master/Writing.md#writing)
-- Best Practices
-- Examples of good writing
-- Outside References
 
 ### [Data Visualization](https://github.com/kul-group/Group-Handbook/blob/master/Data%20Visualization.md#data-visualization)
-- Examples of good visualizations
-- Plotting code within the group
-- Outside References
 
 ## Further Resources
 
