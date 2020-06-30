@@ -1,5 +1,7 @@
 ### Meeting Schedule
 
+Meeting schedule updated quarterly. View updated schedule [here](https://ucdavis.app.box.com/notes/525192228480)
+
 Updated: 6/17/20
 
 
