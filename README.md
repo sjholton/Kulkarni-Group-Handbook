@@ -59,7 +59,6 @@ Please let people know if there is an incorrect link or if this table of content
 ## Further Resources
 
 ### [Meeting Schedule](https://github.com/kul-group/Group-Handbook/blob/master/Meeting%20Schedule.md#meeting-schedule)
-- meeting schedule updated quarterly: view updated schedule [here](https://ucdavis.app.box.com/notes/525192228480)
 
 ### [Theory](https://github.com/kul-group/Group-Handbook/blob/master/Theory.md#theory)
 
@@ -71,5 +70,3 @@ Please let people know if there is an incorrect link or if this table of content
 ### [Troubleshooting](https://github.com/kul-group/Group-Handbook/blob/master/Troubleshooting.md#troubleshooting)
 
 ### [Contact List](https://github.com/kul-group/Group-Handbook/blob/master/Contact%20List.md#contact-list)
-
-
