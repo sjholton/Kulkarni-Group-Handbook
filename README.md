@@ -29,34 +29,18 @@ Please let people know if there is an incorrect link or if this table of content
 ### [Classes to Take](https://github.com/kul-group/Group-Handbook/blob/master/Classes%20to%20Take%20.md#classes-to-take)
 
 ### [Learning ASE/Python/HPC](https://github.com/kul-group/Group-Handbook/blob/master/Learning%20ASE-Python-HPC.md#learning-asepythonhpc)
-- Getting started with Python
-- Python Practice Problems
-- Getting Started with ASE
-- ASE Practice Problems
-- Getting Started on HPC: Logging in
-- Getting Started on HPC: Basic Commands
 
 ## How-to guides
 
 ### [Programming](https://github.com/kul-group/Group-Handbook/blob/master/Programming.md#programming)
-- Formatting/Best Practices
-- Already-Built Code in the Group
-- Outside References
 
 ### [Atomic Simulation Environment](https://github.com/kul-group/Group-Handbook/blob/master/Atomic%20Simulation%20Environment.md#atomic-simulation-environment)
-- Best Practices
 
 ### [Github](https://github.com/kul-group/Group-Handbook/blob/master/Github.md#github)
 
 ### [High Performance Computers](https://github.com/kul-group/Group-Handbook/blob/master/High%20Performance%20Computers.md#high-performance-computers)
-- Best Practices
-- Useful commands
-- Outside References
 
 ### [Command Line](https://github.com/kul-group/Group-Handbook/blob/master/Command%20Line.md#command-line)
-- Best Practices
-- Useful commands
-- Outside References
 
 ### [Running Jobs](https://github.com/kul-group/Group-Handbook/blob/master/Running%20Jobs%20.md#chapter-contents)
 - Optimization
