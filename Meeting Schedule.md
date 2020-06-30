@@ -7,6 +7,7 @@ Literature Meetings: The listed lab member leads a discussion of a paper, other 
 Research Meetings: Update the team about what has been happening with your research. Students are split into two groups which alternate giving updates.
 
 Group A members:
+
 Group B members: 
 
 #### Schedule
