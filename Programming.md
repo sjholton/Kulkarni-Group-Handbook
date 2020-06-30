@@ -1,6 +1,10 @@
 
 ### Programming
 
+- Formatting/Best Practices
+- Already-Built Code in the Group
+- Outside References
+
 Python Coding guidelines:
 
 Materials covered in ECS 32B:
