@@ -12,12 +12,16 @@ Effectively communicating your work is essential to being a productive researche
 
 4. Use an outline. Have a slide at the beginning of your talk going over the outline, remind the audience where you are in the outline at each step in the presentation.
 
-5. Use backup slides if you must. Some students include a lot of background and justification in their slides in preparation for potential questions
+5. Use backup slides. Some students include a lot of background and justification in their slides in preparation for potential questions. This is not the best approach since the additional content can distract the audience. Instead, include slides designed to explain a particular concept or answer a question at the end of your presentation. That way, you can refer to these backup slides (if a question comes up) without distracting from your main point in the presentation.
 
-- Examples of good slides
+6. Include proper attributions and acknowledgements: Make sure to cite your sources, and acknowledge the people that helped you and your research.
+
+##### Examples of good slides
 
 #### Speaking
-- practicing your presentation
-- resources for dealing with stage fright
+
+##### practicing your presentation
+
+##### resources for dealing with stage fright
 
 
