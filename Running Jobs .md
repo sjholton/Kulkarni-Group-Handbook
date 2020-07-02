@@ -1,4 +1,5 @@
 ### Chapter Contents
+- running/checking on jobs
 - optimization
 - vibrations
 - MD
