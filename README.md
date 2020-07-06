@@ -14,9 +14,6 @@ Please let people know if there is an incorrect link or if this table of content
 # Table of Contents
 
 ## [Introduction](https://github.com/kul-group/Group-Handbook/blob/master/Introduction.md#introduction)
-- Welcome to the Group!
-- How to use this guide
-- What do we mean by "Best Practices"?
 
 ## Student Startup
 
@@ -61,9 +58,6 @@ Please let people know if there is an incorrect link or if this table of content
 ### [Meeting Schedule](https://github.com/kul-group/Group-Handbook/blob/master/Meeting%20Schedule.md#meeting-schedule)
 
 ### [Theory](https://github.com/kul-group/Group-Handbook/blob/master/Theory.md#theory)
-
-#### DFT
-#### ML
 
 ### [Tips and Tricks](https://github.com/kul-group/Group-Handbook/blob/master/Tips%20and%20Tricks%20.md#tips)
 
