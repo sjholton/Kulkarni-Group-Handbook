@@ -29,7 +29,7 @@ Please let people know if there is an incorrect link or if this table of content
 
 ## How-to guides
 
-### [Programming](https://github.com/kul-group/Group-Handbook/blob/master/Programming.md#programming)
+### [Programming](Programming.md)
 
 ### [Atomic Simulation Environment](https://github.com/kul-group/Group-Handbook/blob/master/Atomic%20Simulation%20Environment.md#atomic-simulation-environment)
 
