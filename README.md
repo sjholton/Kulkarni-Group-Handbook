@@ -13,7 +13,7 @@ Please let people know if there is an incorrect link or if this table of content
 
 # Table of Contents
 
-## [Introduction](https://github.com/sjholton/test_pages2/blob/master/Introduction.html)
+## [Introduction](Introduction.md)
 
 ## Student Startup
 
