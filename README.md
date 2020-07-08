@@ -17,7 +17,7 @@ Please let people know if there is an incorrect link or if this table of content
 
 ## Student Startup
 
-### [Workstation and Paperwork](Workstation20%and20%Paperwork.md)
+### [Workstation and Paperwork](Workstation_and_Paperwork.md)
 
 ### [Programs to Download](https://github.com/kul-group/Group-Handbook/blob/master/Programs%20to%20Download.md#programs-to-downloadmd)
 
