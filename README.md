@@ -4,9 +4,7 @@
 Feel free to add to the handbook or expand it by adding pages.
 Mostly focus on adding bullet points and short bits of text, we will make it more coherent over time.
 
-If you like, you can title a page with .md and use markdown formatting to make it look nice.
-
-Markdown Guide: https://www.markdownguide.org/basic-syntax
+If you like, you can title a page with .md and use [markdown formatting](https://www.markdownguide.org/basic-syntax) to make it look nice.
 
 #### Users
 Please let people know if there is an incorrect link or if this table of contents is outdated. Please note which sections are not helpful or confusing.
@@ -19,48 +17,34 @@ Please let people know if there is an incorrect link or if this table of content
 
 ### [Workstation and Paperwork](Workstation_and_Paperwork.md)
 
-### [Programs to Download](https://github.com/kul-group/Group-Handbook/blob/master/Programs%20to%20Download.md#programs-to-downloadmd)
+### [Programs to Download](Programs_to_Download.md)
 
-### [Account Setup](https://github.com/kul-group/Group-Handbook/blob/master/Account%20Setup.md#account-setup)
+### [Account Setup](Account_Setup.md)
 
-### [Classes to Take](https://github.com/kul-group/Group-Handbook/blob/master/Classes%20to%20Take%20.md#classes-to-take)
+### [Classes to Take](Classes_to_Take_.md)
 
-### [Learning ASE/Python/HPC](https://github.com/kul-group/Group-Handbook/blob/master/Learning%20ASE-Python-HPC.md#learning-asepythonhpc)
+### [Learning ASE/Python/HPC](Learning_ASE-Python-HPC.md)
 
 ## How-to guides
 
 ### [Programming](Programming.md)
 
-### [Atomic Simulation Environment](https://github.com/kul-group/Group-Handbook/blob/master/Atomic%20Simulation%20Environment.md#atomic-simulation-environment)
+### [Atomic Simulation Environment](Atomic_Simulation_Environment.md)
 
-### [Github](https://github.com/kul-group/Group-Handbook/blob/master/Github.md#github)
+### [Github](Github.md)
 
-### [High Performance Computers](https://github.com/kul-group/Group-Handbook/blob/master/High%20Performance%20Computers.md#high-performance-computers)
+### [High Performance Computers](High_Performance_Computers.md)
 
-### [Command Line](https://github.com/kul-group/Group-Handbook/blob/master/Command%20Line.md#command-line)
+### [Command Line](Command_Line.md)
 
-### [Running Jobs](https://github.com/kul-group/Group-Handbook/blob/master/Running%20Jobs%20.md#chapter-contents)
+### [Running Jobs](Running_Jobs_.md)
 
-### [Qualifying Examination](https://github.com/kul-group/Group-Handbook/blob/master/Qualifying%20Examination.md#qualifying-examination)
+### [Qualifying Examination](Qualifying_Examination.md)
 
-### [Preliminary Examination](https://github.com/kul-group/Group-Handbook/blob/master/Preliminary%20Examination.md#preliminary-examination)
+### [Preliminary Examination](Preliminary_Examination.md)
 
-### [Literature](https://github.com/kul-group/Group-Handbook/blob/master/Literature.md#literature)
+### [Literature](Literature.md)
 
-### [Presentations](https://github.com/kul-group/Group-Handbook/blob/master/Presentations.md#presentations)
+### [Presentations](Presentations.md)
 
-### [Writing](https://github.com/kul-group/Group-Handbook/blob/master/Writing.md#writing)
-
-### [Data Visualization](https://github.com/kul-group/Group-Handbook/blob/master/Data%20Visualization.md#data-visualization)
-
-## Further Resources
-
-### [Meeting Schedule](https://github.com/kul-group/Group-Handbook/blob/master/Meeting%20Schedule.md#meeting-schedule)
-
-### [Theory](https://github.com/kul-group/Group-Handbook/blob/master/Theory.md#theory)
-
-### [Tips and Tricks](https://github.com/kul-group/Group-Handbook/blob/master/Tips%20and%20Tricks%20.md#tips)
-
-### [Troubleshooting](https://github.com/kul-group/Group-Handbook/blob/master/Troubleshooting.md#troubleshooting)
-
-### [Contact List](https://github.com/kul-group/Group-Handbook/blob/master/Contact%20List.md#contact-list)
+### [Writing](Writing.md)
