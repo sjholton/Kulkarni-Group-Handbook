@@ -5,7 +5,7 @@ Group Handbook for the [Kulkarni Group](https://kulkarni.sf.ucdavis.edu/) at UC 
 [Handbook Home](https://sjholton.github.io/Kulkarni-Group-Handbook/)
 
 #### Editors
-Feel free to add to the handbook or expand it by adding pages.
+Feel free to add to the handbook or expand it by adding pages, see [here](Editing_and_Copying_the_Handbook.md) for instructions.
 Mostly focus on adding bullet points and short bits of text, we will make it more coherent over time.
 
 If you like, you can title a page with .md and use [markdown formatting](https://www.markdownguide.org/basic-syntax) to make it look nice.
@@ -64,3 +64,5 @@ Please let people know if there is an incorrect link or if this table of content
 ### [Troubleshooting](Troubleshooting.md)
 
 ### [Contact List](Contact_List.md)
+
+### [Editing and Copying the Handbook](Editing_and_Copying_the_Handbook.md)
