@@ -48,3 +48,15 @@ Please let people know if there is an incorrect link or if this table of content
 ### [Presentations](Presentations.md)
 
 ### [Writing](Writing.md)
+
+## Further Resources
+
+### [Meeting Schedule](Meeting%20Schedule.md)
+
+### [Theory](Theory.md)
+
+### [Tips and Tricks](Tips_and_Tricks.md)
+
+### [Troubleshooting](Troubleshooting.md)
+
+### [Contact List](Contact_List.md)
