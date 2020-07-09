@@ -1,6 +1,6 @@
 ### Presentations
 
-Effectively communicating your work is essential to being a productive researcher. Presentations are used to update the group, communicate with other groups, and play a central role in your future exams and interviews. The following guidelines focus on how to create clear, effective presentations. See the [Prelim](https://github.com/kul-group/Group-Handbook/blob/master/Preliminary%20Examination.md#preliminary-examination) and [QE](https://github.com/kul-group/Group-Handbook/blob/master/Qualifying%20Examination.md#qualifying-examination) pages for more details on these specific presentations. The [Data Visualization](https://github.com/kul-group/Group-Handbook/blob/master/Data%20Visualization.md#data-visualization) page can help with formatting images in your presentation.
+Effectively communicating your work is essential to being a productive researcher. Presentations are used to update the group, communicate with other groups, and play a central role in your future exams and interviews. The following guidelines focus on how to create clear, effective presentations. See the [Prelim](Preliminary_Examination.md) and [QE](Qualifying_Examination.md) pages for more details on these specific presentations. The [Data Visualization](Data_Visualization.md) page can help with formatting images in your presentation.
 
 #### Slides
 
