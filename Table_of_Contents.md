@@ -1,4 +1,4 @@
-OUT OF DATE. [README](https://github.com/kul-group/Group-Handbook#table-of-contents) IS MORE ACCURATE
+OUT OF DATE. [README](README.md) IS MORE ACCURATE
 
 Handbook for the [Kulkarni Group](https://kulkarni.sf.ucdavis.edu/) at UC Davis. 
 
