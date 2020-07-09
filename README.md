@@ -39,7 +39,7 @@ Please let people know if there is an incorrect link or if this table of content
 
 ### [Command Line](Command_Line.md)
 
-### [Running Jobs](Running_Jobs_.md)
+### [Running Jobs](Running_Jobs.md)
 
 ### [Qualifying Examination](Qualifying_Examination.md)
 
