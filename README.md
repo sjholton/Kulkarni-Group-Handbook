@@ -25,7 +25,7 @@ Please let people know if there is an incorrect link or if this table of content
 
 ### [Account Setup](Account_Setup.md)
 
-### [Classes to Take](Classes_to_Take_.md)
+### [Classes to Take](Classes_to_Take.md)
 
 ### [Learning ASE/Python/HPC](Learning_ASE-Python-HPC.md)
 
