@@ -55,7 +55,7 @@ Please let people know if there is an incorrect link or if this table of content
 
 ## Further Resources
 
-### [Meeting Schedule](Meeting%20Schedule.md)
+### [Meeting Schedule](Meeting_Schedule.md)
 
 ### [Theory](Theory.md)
 
