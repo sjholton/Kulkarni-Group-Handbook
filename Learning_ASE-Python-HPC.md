@@ -24,7 +24,7 @@ Where STRUCTUREFILE is the name of the structure file you downloaded.
 
 ##### Getting started with Python
 Make sure you have Anaconda downloaded and an IDE to write code in. Set up your folders and path ... 
-See [this page](https://github.com/kul-group/Group-Handbook/blob/master/Programming.md#programming) for group coding guidelines.
+See [this page](Programming.md) for group coding guidelines.
 
 ##### Python Practice Problems
 - see [here](http://www.practicepython.org/) for good python practice problems. Once you are comfortable with manipulating lists, for loops, and if/else statements, focus on the ASE practice problems.
@@ -32,7 +32,7 @@ See [this page](https://github.com/kul-group/Group-Handbook/blob/master/Programm
 #### HPC
 
 ##### Getting Started on HPC: Logging in
-Make sure you have an account with the HPC you want to log in to. HPC account creation [here](https://github.com/kul-group/Group-Handbook/blob/master/Account%20Setup.md#essential). You will need your account information and (possibly) your 2FA set up to log in.
+Make sure you have an account with the HPC you want to log in to. HPC account creation [here](Account_Setup.md#essential). You will need your account information and (possibly) your 2FA set up to log in.
 - In your command line, type ```ssh -XY username@address``` and hit enter. where 'username' is your account username and 'address' differs based on the hpc you are logging into:
 HPC1: address=hpc1.cse.ucdavis.edu (OR 'hpc1.engr.ucdavis.edu' check your account)
 Stampede: address=stampede2.tacc.utexas.edu
@@ -41,7 +41,7 @@ Cori: address=cori.nersc.gov
 - you will be prompted for your password and your 2FA, no dots or letters will show up as you type, just type each and press enter.
 
 ##### Getting Started on HPC: Basic Commands
-This is a basic introduction to the most commonly used bash commands. A more detailed tutorial can be found [here](https://github.com/kul-group/Group-Handbook/blob/master/Command%20Line.md#command-line). You can practice most of this on your local machine. Essentially, the command line allows you to move around your computer, make new files, edit documents, and run simple programs. While this is easy to do on your local machine using Finder or Anaconda, when using a HPC, almost everything must be done using the command line. To start, open iTerm or other terminal software.
+This is a basic introduction to the most commonly used bash commands. A more detailed tutorial can be found [here](Command_Line.md#command-line). You can practice most of this on your local machine. Essentially, the command line allows you to move around your computer, make new files, edit documents, and run simple programs. While this is easy to do on your local machine using Finder or Anaconda, when using a HPC, almost everything must be done using the command line. To start, open iTerm or other terminal software.
 
 ###### Moving Around
 1. See what directory you are in at anytime by typing ```pwd``` (and then pressing enter)
